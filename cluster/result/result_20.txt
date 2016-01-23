@@ -1,0 +1,61 @@
+2014年 06月 28日 星期六 12:16:00 CST
+Load Data Done.
+Graph Generated!
+Cluster Number:  1
+Outlier Number:  34531
+Cluster  0 : 
+---> Number of Nodes:  250
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'gl', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'nu', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+2014年 06月 28日 星期六 16:15:57 CST
+Traceback (most recent call last):
+  File "tmp.py", line 6, in <module>
+    snn_mtx = pickle.load(fd)
+  File "/usr/lib/python2.7/pickle.py", line 1378, in load
+    return Unpickler(file).load()
+  File "/usr/lib/python2.7/pickle.py", line 858, in load
+    dispatch[key](self)
+  File "/usr/lib/python2.7/pickle.py", line 1194, in load_setitem
+    stack = self.stack
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "tmp.py", line 29, in <module>
+    if getEntry(subclst_buf[0], nameList[j], snn_mtx) >= threshold:
+NameError: name 'getEntry' is not defined
+Cluster Number:  10
+Outlier Number:  34652
+Traceback (most recent call last):
+  File "tmp.py", line 58, in <module>
+    for record in raw_dat:
+NameError: name 'raw_dat' is not defined
+Cluster Number:  10
+Outlier Number:  34652
+Cluster  0 : 
+---> Number of Nodes:  45
+---> States included:  ['va', 'ab', 'co', 'ca', 'al', 'ar', 'il', 'ga', 'in', 'ia', 'az', 'id', 'sk', 'nj', 'nm', 'tx', 'la', 'nc', 'nd', 'ne', 'tn', 'pa', 'nt', 'ak', 'nv', 'mn', 'wa', 'bc', 'wi', 'wv', 'ma', 'wy', 'on', 'ok', 'mb', 'ut', 'mo', 'oh', 'mi', 'md', 'ks', 'mt', 'qc', 'ms', 'sc', 'ky', 'or', 'sd']
+Cluster  1 : 
+---> Number of Nodes:  3
+---> States included:  ['mt', 'wy']
+Cluster  2 : 
+---> Number of Nodes:  22
+---> States included:  ['va', 'ca', 'al', 'bc', 'ar', 'vt', 'il', 'ga', 'in', 'ia', 'ct', 'nh', 'nj', 'tx', 'la', 'nb', 'nc', 'ne', 'tn', 'ny', 'pa', 'pe', 'ns', 'ri', 'wa', 'md', 'de', 'dc', 'wi', 'wv', 'ma', 'fl', 'me', 'on', 'ok', 'oh', 'mo', 'mn', 'mi', 'ks', 'qc', 'ms', 'sc', 'ky', 'or']
+Cluster  3 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'nm', 'nv', 'ut', 'wy']
+Cluster  4 : 
+---> Number of Nodes:  30
+---> States included:  ['va', 'vi', 'al', 'dc', 'ar', 'il', 'ga', 'in', 'fl', 'pr', 'tx', 'la', 'mo', 'tn', 'hi', 'ms', 'ky']
+Cluster  5 : 
+---> Number of Nodes:  16
+---> States included:  ['dengl', 'ab', 'co', 'wa', 'bc', 'ak', 'gl', 'yt', 'wy', 'on', 'lb', 'mb', 'fraspm', 'nf', 'or', 'sk', 'qc', 'nt', 'nu']
+Cluster  6 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'mn', 'md', 'wi', 'wv', 'vt', 'il', 'ga', 'in', 'ia', 'ct', 'nh', 'on', 'nj', 'ma', 'oh', 'nb', 'nc', 'mi', 'tn', 'ny', 'qc', 'pa', 'sc', 'me', 'ky', 'ns', 'ri']
+Cluster  7 : 
+---> Number of Nodes:  4
+---> States included:  ['va', 'md', 'de', 'al', 'me', 'wv', 'ar', 'il', 'in', 'ct', 'nh', 'on', 'nj', 'ma', 'oh', 'nc', 'mi', 'tn', 'ny', 'qc', 'pa', 'sc', 'ky']
+Cluster  8 : 
+---> Number of Nodes:  2
+---> States included:  ['on', 'lb', 'mb', 'bc', 'nf', 'sk', 'qc', 'gl', 'nt', 'nu']
+Cluster  9 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'bc', 'mb', 'id', 'sk', 'mt', 'nt', 'yt']

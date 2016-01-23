@@ -1,0 +1,23 @@
+Cluster Number:  7
+Outlier Number:  446
+Cluster  0 : 
+---> Number of Nodes:  1544
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'gl', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'ri', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  1 : 
+---> Number of Nodes:  3
+---> States included:  ['mi', 'ca', 'wi', 'vt', 'il', 'ia', 'ct', 'nh', 'on', 'nj', 'ma', 'oh', 'ut', 'nb', 'mb', 'nd', 'nf', 'ny', 'qc', 'pa']
+Cluster  2 : 
+---> Number of Nodes:  10
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'ri', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  3 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'co', 'ak', 'ar', 'vt', 'il', 'ga', 'in', 'ia', 'id', 'ct', 'nh', 'nj', 'nb', 'nc', 'nd', 'ne', 'tn', 'ny', 'pa', 'ns', 'wa', 'bc', 'de', 'dc', 'wi', 'wv', 'ma', 'me', 'on', 'ok', 'oh', 'ut', 'mo', 'mn', 'mi', 'md', 'ks', 'qc', 'sc', 'ky', 'or']
+Cluster  4 : 
+---> Number of Nodes:  2
+---> States included:  ['me', 'ut', 'ca', 'il', 'in', 'ia']
+Cluster  5 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'vt', 'il', 'in', 'ia', 'az', 'id', 'ct', 'nh', 'ks', 'nj', 'nm', 'nd', 'ne', 'ny', 'pa', 'ri', 'mn', 'bc', 'wi', 'wy', 'me', 'on', 'ma', 'mb', 'mo', 'oh', 'mi', 'sk', 'mt', 'qc', 'sd']
+Cluster  6 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'mn', 'ca', 'vt', 'il', 'in', 'ct', 'nh', 'nj', 'lb', 'nb', 'nc', 'nf', 'ny', 'pa', 'pe', 'ns', 'ri', 'wa', 'bc', 'de', 'wi', 'me', 'on', 'ma', 'oh', 'fraspm', 'mi', 'md', 'qc', 'sc', 'or']

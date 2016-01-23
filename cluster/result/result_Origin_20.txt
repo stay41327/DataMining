@@ -1,0 +1,259 @@
+Load Data Done.
+Graph Generated!
+Cluster Number:  85
+Outlier Number:  34519
+Cluster  0 : 
+---> Number of Nodes:  3
+---> States included:  ['ca', 'az', 'nv']
+Cluster  1 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  2 : 
+---> Number of Nodes:  3
+---> States included:  ['ca', 'or']
+Cluster  3 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'al', 'ar', 'vt', 'il', 'ga', 'in', 'ia', 'ct', 'nh', 'nj', 'tx', 'la', 'nb', 'nc', 'ne', 'tn', 'ny', 'pa', 'ns', 'ri', 'md', 'de', 'dc', 'wi', 'wv', 'ma', 'fl', 'me', 'on', 'ok', 'oh', 'mo', 'mn', 'mi', 'ks', 'qc', 'ms', 'sc', 'ky']
+Cluster  4 : 
+---> Number of Nodes:  2
+---> States included:  ['nm', 'tx', 'az']
+Cluster  5 : 
+---> Number of Nodes:  6
+---> States included:  ['pr']
+Cluster  6 : 
+---> Number of Nodes:  6
+---> States included:  ['ca']
+Cluster  7 : 
+---> Number of Nodes:  2
+---> States included:  ['fl']
+Cluster  8 : 
+---> Number of Nodes:  4
+---> States included:  ['ut', 'ca', 'az', 'nv']
+Cluster  9 : 
+---> Number of Nodes:  7
+---> States included:  ['hi']
+Cluster  10 : 
+---> Number of Nodes:  2
+---> States included:  ['az', 'nm']
+Cluster  11 : 
+---> Number of Nodes:  2
+---> States included:  ['me']
+Cluster  12 : 
+---> Number of Nodes:  3
+---> States included:  ['ak']
+Cluster  13 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'nm', 'tx', 'ut', 'az', 'nv']
+Cluster  14 : 
+---> Number of Nodes:  2
+---> States included:  ['pr', 'tx', 'vi', 'fl']
+Cluster  15 : 
+---> Number of Nodes:  2
+---> States included:  ['wa', 'bc', 'ak', 'ca', 'or']
+Cluster  16 : 
+---> Number of Nodes:  2
+---> States included:  ['nm', 'tx']
+Cluster  17 : 
+---> Number of Nodes:  2
+---> States included:  ['ma']
+Cluster  18 : 
+---> Number of Nodes:  2
+---> States included:  ['pr', 'fl']
+Cluster  19 : 
+---> Number of Nodes:  9
+---> States included:  ['pr', 'vi']
+Cluster  20 : 
+---> Number of Nodes:  3
+---> States included:  ['pr', 'hi']
+Cluster  21 : 
+---> Number of Nodes:  2
+---> States included:  ['wa', 'bc', 'or']
+Cluster  22 : 
+---> Number of Nodes:  2
+---> States included:  ['ca', 'or', 'nv']
+Cluster  23 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'ri', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  24 : 
+---> Number of Nodes:  4
+---> States included:  ['ca', 'hi']
+Cluster  25 : 
+---> Number of Nodes:  3
+---> States included:  ['pr', 'vi', 'hi', 'fl']
+Cluster  26 : 
+---> Number of Nodes:  2
+---> States included:  ['pr', 'vi', 'fl']
+Cluster  27 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'wa', 'bc', 'ak', 'or', 'mt', 'ca', 'id']
+Cluster  28 : 
+---> Number of Nodes:  2
+---> States included:  ['pr', 'la', 'vi', 'fl']
+Cluster  29 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  30 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'bc', 'ak', 'nt', 'yt']
+Cluster  31 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  32 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'nu', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  33 : 
+---> Number of Nodes:  9
+---> States included:  ['co', 'va', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'mt', 'qc', 'ms', 'dengl', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  34 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'ct', 'lb', 'tn', 'pa', 'pe', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'mn', 'mi', 'nu', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'vt', 'il', 'in', 'ia', 'id', 'nh', 'nj', 'nb', 'nc', 'nd', 'nf', 'ny', 'ns', 'nt', 'ri', 'wa', 'bc', 'wi', 'wv', 'fraspm', 'on', 'oh', 'sk', 'sc', 'ky', 'or']
+Cluster  35 : 
+---> Number of Nodes:  2
+---> States included:  ['vi', 'ca', 'al', 'ga', 'az', 'fl', 'pr', 'tx', 'la', 'ut', 'nc', 'ms', 'sc']
+Cluster  36 : 
+---> Number of Nodes:  9
+---> States included:  ['co', 'va', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'ri', 'mt', 'qc', 'ms', 'dengl', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  37 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'ct', 'lb', 'tx', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'nu', 'mt', 'qc', 'va', 'ab', 'ak', 'al', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'wy', 'fraspm', 'on', 'oh', 'sk', 'sc', 'ky', 'or']
+Cluster  38 : 
+---> Number of Nodes:  5
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  39 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'ab', 'co', 'bc', 'ak', 'vt', 'gl', 'yt', 'wy', 'on', 'mb', 'mi', 'nf', 'mt', 'qc', 'nt', 'nu']
+Cluster  40 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'vt', 'ia', 'az', 'id', 'ks', 'gl', 'lb', 'nm', 'nd', 'ne', 'nf', 'ny', 'nt', 'ca', 'nv', 'wa', 'bc', 'wi', 'yt', 'wy', 'on', 'mb', 'ut', 'mn', 'mi', 'sk', 'mt', 'qc', 'or', 'sd']
+Cluster  41 : 
+---> Number of Nodes:  2
+---> States included:  ['il', 'ga', 'in', 'gl', 'nh', 'nj', 'nc', 'tn', 'ns', 'ri', 'wa', 'bc', 'wi', 'wv', 'wy', 'on', 'ma', 'oh', 'ut', 'mn', 'mi', 'md', 'mt', 'qc', 'ms', 'or']
+Cluster  42 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'tx', 'la', 'tn', 'pa', 'pe', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'fl', 'wy', 'on', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  43 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ak', 'vt', 'ca', 'gl', 'id', 'nh', 'lb', 'nb', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'yt', 'wy', 'me', 'on', 'mb', 'ut', 'mn', 'mi', 'sk', 'qc', 'or']
+Cluster  44 : 
+---> Number of Nodes:  33
+---> States included:  ['co', 'va', 'ca', 'ga', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'ri', 'mt', 'qc', 'ms', 'dengl', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  45 : 
+---> Number of Nodes:  3
+---> States included:  ['lb', 'bc', 'ak', 'nu', 'qc', 'gl', 'nt', 'yt']
+Cluster  46 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  47 : 
+---> Number of Nodes:  2
+---> States included:  ['nh', 'ab', 'bc', 'ak', 'wi', 'gl', 'yt', 'ct', 'me', 'on', 'lb', 'mb', 'nf', 'ny', 'qc', 'ns', 'nt', 'nu']
+Cluster  48 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'tx', 'la', 'tn', 'pa', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  49 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'il', 'ia', 'az', 'id', 'ks', 'gl', 'lb', 'nm', 'nb', 'nd', 'ne', 'ny', 'pa', 'pe', 'ns', 'nt', 'ca', 'nv', 'mn', 'wa', 'bc', 'wi', 'yt', 'wy', 'me', 'on', 'mb', 'ut', 'mo', 'oh', 'mi', 'nu', 'sk', 'mt', 'qc', 'or', 'sd']
+Cluster  50 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'wa', 'bc', 'ak', 'id', 'gl', 'yt', 'wy', 'on', 'lb', 'nm', 'mb', 'mi', 'or', 'mt', 'qc', 'ns', 'nt', 'nu', 'nv']
+Cluster  51 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'me', 'md', 'ma', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'vi', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'nj', 'nm', 'nc', 'ne', 'ny', 'ri', 'nv', 'wa', 'wi', 'wv', 'fl', 'wy', 'on', 'oh', 'ks', 'sc', 'ky', 'or']
+Cluster  52 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'az', 'id', 'nh', 'gl', 'lb', 'nm', 'nb', 'nf', 'ny', 'ns', 'nt', 'ca', 'nv', 'wa', 'bc', 'yt', 'wy', 'me', 'on', 'ut', 'mt', 'qc', 'or', 'sd']
+Cluster  53 : 
+---> Number of Nodes:  7
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'nu', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  54 : 
+---> Number of Nodes:  2
+---> States included:  ['on', 'lb', 'mb', 'nf', 'sk', 'qc', 'gl', 'nt', 'nu']
+Cluster  55 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  56 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'ut', 'mo', 'mn', 'mi', 'qc', 'ms', 'va', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  57 : 
+---> Number of Nodes:  5
+---> States included:  ['co', 'va', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'ri', 'mt', 'qc', 'ms', 'dengl', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  58 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'ri', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  59 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'pe', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  60 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'vt', 'gl', 'id', 'nh', 'lb', 'nm', 'nb', 'nt', 'ca', 'nv', 'wa', 'bc', 'wi', 'yt', 'wy', 'me', 'on', 'mb', 'ut', 'mi', 'sk', 'mt', 'qc', 'sd']
+Cluster  61 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'nu', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  62 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'de', 'dc', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'ri', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  63 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'ak', 'vt', 'gl', 'id', 'nh', 'lb', 'nb', 'nf', 'ny', 'nt', 'nu', 'bc', 'wi', 'yt', 'wy', 'me', 'on', 'mb', 'mn', 'mi', 'sk', 'mt', 'qc']
+Cluster  64 : 
+---> Number of Nodes:  2
+---> States included:  ['nh', 'vt', 'gl', 'me', 'on', 'lb', 'mb', 'nb', 'mn', 'mi', 'nf', 'ny', 'qc', 'ns', 'nt', 'nu']
+Cluster  65 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'bc', 'ak', 'gl', 'yt', 'wy', 'on', 'lb', 'nm', 'mb', 'ut', 'sk', 'mt', 'qc', 'nt', 'nu', 'nv']
+Cluster  66 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'ab', 'co', 'ak', 'il', 'gl', 'id', 'ct', 'nj', 'nd', 'ne', 'ny', 'pa', 'ca', 'nv', 'mn', 'wa', 'bc', 'de', 'dc', 'yt', 'wy', 'on', 'ma', 'mb', 'ut', 'oh', 'md', 'ks', 'mt', 'or', 'sd']
+Cluster  67 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'ks', 'sc', 'ky', 'or', 'sd']
+Cluster  68 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'ca', 'gl', 'id', 'nh', 'az', 'lb', 'nm', 'nf', 'nt', 'nu', 'nv', 'wa', 'bc', 'yt', 'wy', 'ut', 'mt', 'qc', 'or']
+Cluster  69 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'dengl', 'ca', 'ga', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  70 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'az', 'gl', 'lb', 'nd', 'nf', 'nt', 'nu', 'nv', 'wa', 'bc', 'yt', 'wy', 'on', 'mb', 'ut', 'mn', 'sk', 'mt', 'qc']
+Cluster  71 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'al', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'fl', 'wy', 'on', 'oh', 'ks', 'ky', 'or', 'sd']
+Cluster  72 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'gl', 'ct', 'lb', 'tn', 'pa', 'pe', 'de', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'va', 'ab', 'ak', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'sk', 'nj', 'nm', 'nb', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'nv', 'wa', 'bc', 'wi', 'wy', 'on', 'oh', 'ks', 'ky', 'or', 'sd']
+Cluster  73 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'wa', 'bc', 'ak', 'mt', 'vt', 'gl', 'yt', 'wy', 'on', 'or', 'lb', 'mb', 'nf', 'id', 'ny', 'qc', 'ns', 'nt', 'nu']
+Cluster  74 : 
+---> Number of Nodes:  2
+---> States included:  ['nh', 'wv', 'vt', 'gl', 'me', 'on', 'nb', 'mi', 'nf', 'ny', 'qc', 'pa', 'pe', 'ns']
+Cluster  75 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'wa', 'bc', 'ak', 'id', 'gl', 'yt', 'wy', 'on', 'lb', 'mb', 'ut', 'or', 'mt', 'qc', 'nt', 'nu', 'nv']
+Cluster  76 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'ca', 'az', 'id', 'nh', 'gl', 'lb', 'nm', 'tx', 'nf', 'ns', 'nt', 'nu', 'nv', 'wa', 'bc', 'yt', 'wy', 'ut', 'mt', 'qc', 'or', 'sd']
+Cluster  77 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'az', 'id', 'gl', 'lb', 'nm', 'nb', 'nd', 'nf', 'ny', 'nt', 'ca', 'nv', 'wa', 'bc', 'wi', 'yt', 'wy', 'me', 'on', 'mb', 'ut', 'mn', 'mi', 'md', 'sk', 'mt', 'qc', 'nu', 'or', 'sd']
+Cluster  78 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'vt', 'ca', 'gl', 'id', 'nh', 'lb', 'nf', 'ny', 'nt', 'nu', 'wa', 'bc', 'yt', 'wy', 'me', 'on', 'mb', 'mt', 'qc', 'or']
+Cluster  79 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'mt', 'qc', 'ms', 'va', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  80 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'gl', 'ct', 'pa', 'pe', 'de', 'dc', 'me', 'md', 'ma', 'mb', 'mo', 'mn', 'mi', 'mt', 'qc', 'va', 'ab', 'vt', 'il', 'in', 'ia', 'id', 'nh', 'nj', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'ri', 'wa', 'bc', 'wi', 'wv', 'wy', 'on', 'oh', 'ks', 'ky', 'or', 'sd']
+Cluster  81 : 
+---> Number of Nodes:  3
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'de', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'va', 'ab', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'ny', 'ns', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  82 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'ca', 'az', 'id', 'nh', 'gl', 'lb', 'nm', 'nf', 'nt', 'nu', 'nv', 'wa', 'bc', 'yt', 'wy', 'me', 'on', 'ut', 'mt', 'qc', 'or']
+Cluster  83 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'wa', 'bc', 'ak', 'ca', 'gl', 'yt', 'on', 'lb', 'mb', 'nf', 'or', 'sk', 'qc', 'pa', 'nt', 'nu']
+Cluster  84 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'ca', 'ga', 'gl', 'ct', 'tx', 'tn', 'pa', 'pe', 'dc', 'hi', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'mn', 'mi', 'mt', 'qc', 'va', 'ab', 'ak', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nj', 'nb', 'nc', 'nd', 'nf', 'ny', 'ns', 'ri', 'wa', 'bc', 'wi', 'wv', 'on', 'ok', 'oh', 'sk', 'ky', 'or']

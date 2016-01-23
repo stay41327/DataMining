@@ -1,0 +1,30 @@
+2014年 06月 28日 星期六 16:30:12 CST
+Load Data Done.
+Graph Generated!
+Cluster Number:  8
+Outlier Number:  32687
+Cluster  0 : 
+---> Number of Nodes:  2075
+---> States included:  ['co', 'va', 'ca', 'ga', 'gl', 'ct', 'pr', 'lb', 'tx', 'la', 'tn', 'pa', 'pe', 'mn', 'de', 'dc', 'hi', 'yt', 'me', 'md', 'ma', 'mb', 'ut', 'mo', 'fraspm', 'mi', 'nu', 'mt', 'qc', 'ms', 'dengl', 'ab', 'vi', 'ak', 'al', 'ar', 'vt', 'il', 'in', 'ia', 'az', 'id', 'nh', 'ks', 'nj', 'nm', 'nb', 'nc', 'nd', 'ne', 'nf', 'ny', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'wv', 'fl', 'wy', 'on', 'ok', 'oh', 'sk', 'sc', 'ky', 'or', 'sd']
+Cluster  1 : 
+---> Number of Nodes:  2
+---> States included:  ['ab', 'co', 'ak', 'vt', 'il', 'ia', 'mn', 'id', 'ct', 'nh', 'nj', 'lb', 'nm', 'nb', 'nd', 'nf', 'ny', 'pa', 'pe', 'ns', 'nt', 'ri', 'nv', 'wa', 'bc', 'wi', 'yt', 'wy', 'me', 'on', 'ma', 'mb', 'ut', 'oh', 'mi', 'sk', 'mt', 'qc', 'sd']
+Cluster  2 : 
+---> Number of Nodes:  4
+---> States included:  ['ks', 'ar', 'ok', 'il', 'la', 'mo', 'in']
+Cluster  3 : 
+---> Number of Nodes:  3
+---> States included:  ['oh', 'mn', 'mi', 'wi', 'pa', 'il', 'in', 'ia']
+Cluster  4 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'ab', 'co', 'vt', 'il', 'in', 'ia', 'mn', 'id', 'ct', 'nh', 'nj', 'nm', 'nb', 'nd', 'nf', 'ny', 'pa', 'pe', 'ns', 'nt', 'ri', 'wa', 'bc', 'wi', 'wv', 'yt', 'wy', 'me', 'on', 'ma', 'mb', 'ut', 'oh', 'mi', 'md', 'sk', 'mt', 'qc', 'sd']
+Cluster  5 : 
+---> Number of Nodes:  4
+---> States included:  ['va', 'al', 'ar', 'vt', 'il', 'ga', 'in', 'ia', 'ct', 'nh', 'nj', 'la', 'nc', 'nd', 'tn', 'ny', 'pa', 'ri', 'md', 'de', 'dc', 'wi', 'wv', 'ok', 'me', 'on', 'ma', 'oh', 'mo', 'mn', 'mi', 'ks', 'qc', 'ms', 'sc', 'ky', 'sd']
+Cluster  6 : 
+---> Number of Nodes:  2
+---> States included:  ['va', 'co', 'wa', 'vt', 'ct', 'nh', 'on', 'ma', 'oh', 'ut', 'mi', 'ny']
+Cluster  7 : 
+---> Number of Nodes:  2
+---> States included:  ['co', 'wa', 'vt', 'il', 'in', 'ct', 'me', 'on', 'nj', 'ma', 'mi', 'nf', 'ny', 'qc', 'pa', 'ns', 'nt', 'or']
+2014年 06月 29日 星期日 10:03:38 CST
